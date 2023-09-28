@@ -1,0 +1,14 @@
+
+*{
+	box-sizing: border-box;
+}
+
+.hassan{
+	display: flex;
+	justify-content: end;
+}
+#btn{
+	border: none;
+	color: black;
+	font-size: 15px;
+}
